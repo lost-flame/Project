@@ -1,0 +1,117 @@
+.table1{
+    font-size:80px;
+    background:rgba(0,0,0,0.5); 
+    
+}
+.table1 td a
+{
+  text-decoration:none;
+  color:white; 
+ 
+
+}
+.table1 td a:hover
+{
+   color:yellow;
+}
+
+body
+{
+ background-image:url(9.jpg);
+ background-size:cover;
+ background-position:center;
+ background-attachment: fixed;
+}
+
+.left
+{
+  margin-top:30px;
+  margin-left:100px;
+   
+}
+
+.table2
+{
+   font-size:65px;
+   background:rgba(0,0,0,0.5);
+}
+.table2 td a
+{
+  text-decoration:none;
+  color:white;
+
+}
+.table2 td a:hover
+{
+   color:blue;
+}
+
+.center{
+
+  margin-left:400px;
+  width:810px;
+  height:564px;
+  margin-top:-564px;
+  background:rgba(0,0,0,0.5);
+
+}
+
+
+table td img
+{
+  height:530px;
+  width:400px;
+}
+.center img
+{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  height:300px;
+  width:300px;
+}
+.center p
+{
+   color:white;
+   margin-left:5px;
+   margin-right:5px;
+   text-align:justify;
+}
+form input[type="submit"]
+{
+   margin-left:230px;
+   border:none;
+   outline:none;
+   height:30px;
+   font-size:20px;
+   color:white;
+   background:blue;
+   border-radius:90px;
+}
+
+form input[type="submit"]:hover
+{
+    cursor:pointer;
+    background: yellow;
+    color:darkgreen;
+}
+.center
+{
+  overflow: scroll;
+}  
+.span1
+{
+  color:white;
+  font-size:20px;
+  margin-left:5px;
+}
+.span2
+{
+  color:white;
+  font-size:20px;
+  margin-left:220px;
+}
+.span2 input
+{
+  height:20px;
+}

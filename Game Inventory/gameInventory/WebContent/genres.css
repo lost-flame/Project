@@ -1,0 +1,73 @@
+.table1{
+    font-size:80px;
+    background:rgba(0,0,0,0.5);  
+}
+.table1 td a
+{
+  text-decoration:none;
+  color:white;
+
+}
+.table1 td a:hover
+{
+   color:yellow;
+}
+body
+{
+ background-image:url(8.jpg);
+ background-size:cover;
+ background-position:center;
+ background-attachment: fixed;
+}
+
+.left
+{
+  margin-top:2px;
+  margin-left:100px;
+   
+}
+
+.table2
+{
+   font-size:65px;
+   background:rgba(0,0,0,0.5);
+}
+.table2 td a
+{
+  text-decoration:none;
+  color:white;
+
+}
+.table2 td a:hover
+{
+   color:blue;
+}
+
+.center{
+
+  margin-left:400px;
+  width:810px;
+  height:564px;
+  margin-top:-564px;
+}
+.table3 
+{
+   font-size:20px;
+   background:rgba(0,0,0,0.5);
+}
+
+table td img
+{
+  height:530px;
+  width:400px;
+}
+.table3 td a
+{
+  text-decoration:none;
+  color:white;
+
+}
+.table3 td a:hover
+{
+   color:blue;
+}

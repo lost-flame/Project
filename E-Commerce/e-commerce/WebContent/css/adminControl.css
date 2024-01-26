@@ -1,0 +1,101 @@
+* {
+	box-sizing: border-box;
+	font-family: consolas;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.layout {
+	background-color: aqua;
+	max-width: 100vw;
+	height: 100vh;
+}
+
+.heading {
+	position: relative;
+	top: 1%;
+	font-size: 4vw;
+	background-color: aliceblue;
+	text-align: center;
+	font-weight: bold;
+	max-width: fit-content;
+	margin: auto;
+	height: auto;
+}
+
+.inner {
+	margin: auto;
+	background-color: mintcream;
+	position: relative;
+	max-width: 76vw;
+	top: 3%;
+	height: 84.5%;
+	overflow-y: auto; scrollbar-width : none;
+	display: flex;
+	flex-direction: column;
+	scrollbar-width: none;
+}
+
+.layout::-webkit-scrollbar {
+	display: none;
+}
+
+.insert {
+	text-align: center;
+	margin: auto;
+	font-size: 1.5vw;
+	position: relative;
+	background-color: royalblue;
+	max-width: 52vw;
+}
+
+.update {
+	text-align: center;
+	margin: auto;
+	font-size: 1.5vw;
+	position: relative;
+	background-color: coral;
+	max-width: 70vw;
+	top: 1%;
+}
+
+.delete {
+	text-align: center;
+	margin: auto;
+	font-size: 1.5vw;
+	position: relative;
+	background-color: mediumturquoise;
+	max-width: 33vw;
+	top: 1.5%;
+}
+
+a {
+	text-decoration: none;
+	font-size: 1.2vw;
+}
+
+input[type="text"], input[type="submit"] {
+	max-width: 13vw;
+	font-size: 1vw;
+	border-radius: 10px;
+}
+
+input[type="submit"]{
+	background-color: chartreuse;
+}
+
+input[type="submit"]:hover{
+	background-color: darkorange;
+}
+
+input[type="file"]{
+	max-width: 28vw;
+	font-size: 1.2vw;
+}
+
+td{
+	border: outset;
+}

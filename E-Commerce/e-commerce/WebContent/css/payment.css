@@ -1,0 +1,137 @@
+* {
+	box-sizing: border-box;
+	font-family: consolas;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.layout {
+	background-color: teal;
+	max-width: 100vw;
+	height: 100vh;
+	overflow: auto;
+}
+
+.content {
+	max-width: 60vw;
+	height: auto;
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	margin: auto;
+}
+
+.content .left div {
+	font-size: 23px;
+	position: relative;
+	top: 2%;
+	left: 2%;
+}
+
+.content .left .heading {
+	text-align: center;
+}
+
+.left {
+	background-color: khaki;
+	width: 50%;
+	height: 489px;
+}
+
+input {
+	width: 90%;
+	position: relative;
+	left: 2%;
+	height: 8%;
+	border-radius: 10px;
+}
+
+.gap {
+	display: flex;
+	flex-direction: row;
+	width: 96.1%;
+	height: auto;
+}
+
+.gap div input {
+	width: 86%;
+	position: relative;
+	left: 2%;
+	height: 33px;
+	top: 12%;
+}
+
+.leftGap {
+	width: 50%;
+	height: 10vh;
+}
+
+.rightGap {
+	width: 50%;
+	height: 10vh;
+}
+
+span {
+	height: 1%;
+	display: block;
+}
+
+.button {
+	display: flex;
+	height: 36px;
+	position: relative;
+	top: 1.5%;
+	max-width: 60vw;
+	margin: auto;
+}
+
+button {
+	background-color: #0adb17;
+	border-color: #0adb17;
+	font-weight: bold;
+	font-size: 1.4vw;
+	margin: auto;
+	border-radius: 10px;
+}
+
+::placeholder {
+	max-width: 10vw;
+	font-size: 1vw;
+	font-weight: lighter;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: #e1cb12;
+}
+
+img {
+	max-width: 15vw;
+	height: 8%;
+}
+
+form {
+	width: 920px;
+	margin: auto;
+	top: 17%;
+	position: relative;
+	height: 490px;
+}
+
+@media only screen and (max-width: 928px) {
+	.content .left div {
+		font-size: 18px;
+	}
+	form {
+		top: 1%;
+	}
+	.content {
+		flex-direction: column;
+	}
+	.left {
+		width: 100%;
+	}
+}

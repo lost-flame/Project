@@ -1,0 +1,10 @@
+127.0.0.1 - - [17/Jun/2023:11:56:29 +0530] "GET / HTTP/1.1" 404 992
+127.0.0.1 - - [17/Jun/2023:11:56:35 +0530] "GET /e-commerce/user/home.jsp HTTP/1.1" 200 4717
+127.0.0.1 - - [17/Jun/2023:11:56:35 +0530] "GET /e-commerce/css/home.css HTTP/1.1" 200 7267
+127.0.0.1 - - [17/Jun/2023:11:56:36 +0530] "GET /e-commerce/images/c.jpg HTTP/1.1" 200 71776
+127.0.0.1 - - [17/Jun/2023:11:56:36 +0530] "GET /e-commerce/images/g.jpg HTTP/1.1" 200 54218
+127.0.0.1 - - [17/Jun/2023:11:56:36 +0530] "GET /e-commerce/images/e.jpg HTTP/1.1" 200 81119
+127.0.0.1 - - [17/Jun/2023:11:56:36 +0530] "GET /e-commerce/images/f.jpg HTTP/1.1" 200 17319
+127.0.0.1 - - [17/Jun/2023:11:56:36 +0530] "GET /e-commerce/images/d.jpg HTTP/1.1" 200 47258
+127.0.0.1 - - [17/Jun/2023:11:56:36 +0530] "GET /e-commerce/images/a.jpg HTTP/1.1" 200 29121
+127.0.0.1 - - [17/Jun/2023:11:56:37 +0530] "GET /favicon.ico HTTP/1.1" 404 1014

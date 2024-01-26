@@ -1,0 +1,313 @@
+
+Dec 20, 2021 20:44:04.13 NEW SESSION
+Dec 20, 2021 20:44:04.13 [11056:8660:1220/204404.136:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Dec 20, 2021 20:44:06.62 [11056:5656:1220/204406.628:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Dec 20, 2021 20:44:06.63 [11056:5656:1220/204406.628:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Dec 20, 2021 20:44:06.63 [11056:5656:1220/204406.628:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Dec 20, 2021 20:44:06.63 [11056:5656:1220/204406.634:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Dec 20, 2021 20:44:06.64 [11056:11176:1220/204406.641:ERROR:device_event_log_impl.cc(214)] [20:44:06.642] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 20, 2021 21:36:22.28 [11068:5436:1220/213622.282:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Dec 20, 2021 21:36:24.82 [11068:3736:1220/213624.826:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Dec 20, 2021 21:36:24.82 [11068:3736:1220/213624.826:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Dec 20, 2021 21:36:24.82 [11068:3736:1220/213624.826:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Dec 20, 2021 21:36:24.83 [11068:3736:1220/213624.830:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Dec 20, 2021 21:36:24.83 [11068:9860:1220/213624.834:ERROR:device_event_log_impl.cc(214)] [21:36:24.834] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 20, 2021 21:38:54.05 [13884:17396:1220/213854.050:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Dec 20, 2021 21:38:56.62 [13884:7476:1220/213856.627:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Dec 20, 2021 21:38:56.62 [13884:7476:1220/213856.627:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Dec 20, 2021 21:38:56.63 [13884:7476:1220/213856.627:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Dec 20, 2021 21:38:56.63 [13884:7476:1220/213856.631:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Dec 20, 2021 21:38:56.64 [13884:4856:1220/213856.648:ERROR:device_event_log_impl.cc(214)] [21:38:56.645] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 21, 2021 20:06:34.41 NEW SESSION
+Dec 21, 2021 20:06:34.41 [14556:13288:1221/200634.185:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Dec 21, 2021 20:06:39.99 [14556:13048:1221/200639.998:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Dec 21, 2021 20:06:40.00 [14556:13048:1221/200639.998:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Dec 21, 2021 20:06:40.00 [14556:13048:1221/200639.998:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Dec 21, 2021 20:06:40.01 [14556:13048:1221/200639.999:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Dec 21, 2021 20:06:40.08 [14556:12240:1221/200640.089:ERROR:device_event_log_impl.cc(214)] [20:06:40.089] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 14, 2022 22:06:27.69 NEW SESSION
+Jan 14, 2022 22:06:27.69 [12164:11540:0114/220627.638:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jan 14, 2022 22:06:30.25 [12164:18592:0114/220630.255:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Jan 14, 2022 22:06:30.25 [12164:18592:0114/220630.255:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Jan 14, 2022 22:06:30.26 [12164:18592:0114/220630.255:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Jan 14, 2022 22:06:30.26 [12164:18592:0114/220630.257:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Jan 14, 2022 22:06:30.26 [12164:6976:0114/220630.258:ERROR:device_event_log_impl.cc(214)] [22:06:30.258] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 18, 2022 17:58:33.68 NEW SESSION
+Feb 18, 2022 17:58:33.68 [7492:6744:0218/175833.175:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Feb 18, 2022 17:58:35.88 [7492:12256:0218/175835.883:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 18, 2022 17:58:35.88 [7492:12256:0218/175835.883:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 18, 2022 17:58:35.89 [7492:12256:0218/175835.883:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 18, 2022 17:58:35.89 [7492:12256:0218/175835.886:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 18, 2022 17:58:35.89 [7492:5216:0218/175835.889:ERROR:device_event_log_impl.cc(214)] [17:58:35.889] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 18, 2022 17:58:35.89 [7492:5216:0218/175835.890:ERROR:device_event_log_impl.cc(214)] [17:58:35.890] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 18, 2022 17:58:46.58 [7492:5216:0218/175846.587:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Feb 22, 2022 11:40:03.43 NEW SESSION
+Feb 22, 2022 11:40:03.43 [11996:9744:0222/114003.432:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Feb 22, 2022 11:40:09.08 [11996:14108:0222/114009.082:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 11:40:09.09 [11996:14108:0222/114009.082:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 11:40:09.09 [11996:14108:0222/114009.082:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 11:40:09.10 [11996:14108:0222/114009.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 22, 2022 11:40:09.21 [11996:13740:0222/114009.215:ERROR:device_event_log_impl.cc(214)] [11:40:09.215] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 11:40:34.93 [11996:4960:0222/114034.935:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2022 11:41:00.70 [11996:4960:0222/114100.706:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2022 11:41:45.95 [11996:4960:0222/114145.948:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2022 11:43:32.16 [11996:4960:0222/114332.167:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2022 11:47:30.23 [11996:4960:0222/114730.229:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2022 11:53:32.25 [11996:4960:0222/115332.249:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Mar 03, 2022 20:47:18.36 NEW SESSION
+Mar 03, 2022 20:47:18.36 [15020:15148:0303/204717.741:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 20:47:20.86 [15020:15004:0303/204720.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 20:47:20.86 [15020:15004:0303/204720.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 20:47:20.87 [15020:15004:0303/204720.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 20:47:20.87 [15020:15004:0303/204720.867:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 20:47:20.87 [15020:15508:0303/204720.868:ERROR:device_event_log_impl.cc(214)] [20:47:20.867] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 03, 2022 21:05:33.42 NEW SESSION
+Mar 03, 2022 21:05:33.42 [1588:13240:0303/210533.386:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 21:05:35.78 [1588:13732:0303/210535.778:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:05:35.78 [1588:13732:0303/210535.778:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 21:05:35.78 [1588:13732:0303/210535.778:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:05:35.78 [1588:13732:0303/210535.781:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 21:05:35.78 [1588:15616:0303/210535.782:ERROR:device_event_log_impl.cc(214)] [21:05:35.782] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 03, 2022 21:07:46.42 NEW SESSION
+Mar 03, 2022 21:07:46.42 [12908:2496:0303/210746.405:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 21:07:48.68 [12908:13040:0303/210748.679:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:07:48.68 [12908:13040:0303/210748.679:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 21:07:48.68 [12908:13040:0303/210748.679:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:07:48.68 [12908:13040:0303/210748.683:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 21:07:48.68 [12908:6868:0303/210748.684:ERROR:device_event_log_impl.cc(214)] [21:07:48.683] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2022 21:08:34.24 [15200:3144:0303/210834.231:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 21:08:37.50 [15200:16300:0303/210837.506:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:08:37.51 [15200:16300:0303/210837.506:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 21:08:37.51 [15200:16300:0303/210837.506:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:08:37.51 [15200:16300:0303/210837.507:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 21:08:37.51 [15200:15852:0303/210837.509:ERROR:device_event_log_impl.cc(214)] [21:08:37.509] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2022 21:09:11.78 [15200:15852:0303/210911.789:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Mar 03, 2022 21:11:14.09 NEW SESSION
+Mar 03, 2022 21:11:14.09 [17204:14120:0303/211114.065:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 21:11:16.34 [17204:4776:0303/211116.335:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:11:16.34 [17204:4776:0303/211116.335:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 21:11:16.34 [17204:4776:0303/211116.335:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 21:11:16.34 [17204:4776:0303/211116.339:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 21:11:16.34 [17204:1936:0303/211116.340:ERROR:device_event_log_impl.cc(214)] [21:11:16.340] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2022 21:11:33.91 [17204:9628:0303/211133.918:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 21:11:54.17 [17204:9628:0303/211154.173:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 21:12:36.18 [17204:9628:0303/211236.182:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 21:14:03.23 [17204:9628:0303/211403.230:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Mar 03, 2022 22:38:21.15 NEW SESSION
+Mar 03, 2022 22:38:21.15 [3148:15580:0303/223821.126:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 22:38:23.52 [3148:7228:0303/223823.523:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:38:23.53 [3148:7228:0303/223823.523:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 22:38:23.53 [3148:7228:0303/223823.523:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:38:23.53 [3148:7228:0303/223823.527:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 22:38:23.53 [3148:13424:0303/223823.528:ERROR:device_event_log_impl.cc(214)] [22:38:23.528] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2022 22:47:27.94 [15432:2860:0303/224727.912:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 22:47:30.18 [15432:11840:0303/224730.178:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:47:30.18 [15432:11840:0303/224730.178:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 22:47:30.18 [15432:11840:0303/224730.178:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:47:30.18 [15432:11840:0303/224730.179:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 22:47:30.18 [15432:6420:0303/224730.180:ERROR:device_event_log_impl.cc(214)] [22:47:30.181] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2022 22:51:27.51 [12556:8932:0303/225127.496:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 22:51:29.78 [12556:8392:0303/225129.782:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:51:29.78 [12556:8392:0303/225129.782:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 22:51:29.79 [12556:8392:0303/225129.782:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:51:29.79 [12556:8392:0303/225129.784:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 22:51:29.79 [12556:4148:0303/225129.785:ERROR:device_event_log_impl.cc(214)] [22:51:29.785] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 03, 2022 22:53:45.70 NEW SESSION
+Mar 03, 2022 22:53:45.70 [16932:7420:0303/225345.694:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 22:53:47.93 [16932:16644:0303/225347.933:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:53:47.94 [16932:16644:0303/225347.933:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 22:53:47.94 [16932:16644:0303/225347.933:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:53:47.94 [16932:16644:0303/225347.937:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 22:53:47.94 [16932:12456:0303/225347.937:ERROR:device_event_log_impl.cc(214)] [22:53:47.937] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2022 22:57:01.25 [16932:8300:0303/225701.252:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 22:57:30.72 [16932:8300:0303/225730.716:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Mar 03, 2022 22:58:12.52 NEW SESSION
+Mar 03, 2022 22:58:12.52 [6072:11276:0303/225812.510:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 22:58:14.76 [6072:12812:0303/225814.761:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:58:14.76 [6072:12812:0303/225814.761:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 22:58:14.76 [6072:12812:0303/225814.761:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 22:58:14.76 [6072:12812:0303/225814.766:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 22:58:14.76 [6072:5712:0303/225814.768:ERROR:device_event_log_impl.cc(214)] [22:58:14.768] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2022 22:58:14.78 [6072:11960:0303/225814.785:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 22:58:35.88 [6072:11960:0303/225835.885:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 22:59:29.53 [6072:11960:0303/225929.532:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 23:01:02.73 [6072:11960:0303/230102.734:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2022 23:09:01.16 [6072:5712:0303/230901.166:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Mar 03, 2022 23:55:33.48 NEW SESSION
+Mar 03, 2022 23:55:33.48 [9192:8568:0303/235533.455:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 03, 2022 23:55:36.72 [9192:15648:0303/235536.721:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 23:55:36.72 [9192:15648:0303/235536.721:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 03, 2022 23:55:36.72 [9192:15648:0303/235536.721:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 03, 2022 23:55:36.72 [9192:15648:0303/235536.723:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 03, 2022 23:55:36.72 [9192:16136:0303/235536.724:ERROR:device_event_log_impl.cc(214)] [23:55:36.724] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 24:00:25.83 [10364:14716:0304/000025.838:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 24:00:28.16 [10364:14020:0304/000028.155:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 04, 2022 24:00:28.16 [10364:14020:0304/000028.155:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 04, 2022 24:00:28.17 [10364:14020:0304/000028.155:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 04, 2022 24:00:28.17 [10364:14020:0304/000028.160:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 04, 2022 24:00:28.17 [10364:14956:0304/000028.162:ERROR:device_event_log_impl.cc(214)] [00:00:28.163] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 04, 2022 12:43:56.60 NEW SESSION
+Mar 04, 2022 12:43:56.60 [4396:11688:0304/124352.745:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 12:43:57.83 [4396:14996:0304/124357.832:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 04, 2022 12:43:57.83 [4396:14996:0304/124357.832:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 04, 2022 12:43:57.83 [4396:14996:0304/124357.832:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 04, 2022 12:43:57.84 [4396:14996:0304/124357.835:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 04, 2022 12:43:57.84 [4396:1728:0304/124357.841:ERROR:device_event_log_impl.cc(214)] [12:43:57.841] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 12:43:59.33 [4396:15612:0304/124359.338:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 04, 2022 12:44:03.58 [4396:1728:0304/124403.582:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 04, 2022 12:44:29.31 [4396:15612:0304/124429.312:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 04, 2022 12:45:26.04 [4396:15612:0304/124526.048:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 04, 2022 12:46:49.20 [4396:15612:0304/124649.202:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Mar 04, 2022 13:02:27.71 NEW SESSION
+Mar 04, 2022 13:02:27.71 [9044:16504:0304/130227.675:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 13:02:30.07 [9044:6128:0304/130230.073:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 04, 2022 13:02:30.07 [9044:6128:0304/130230.073:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 04, 2022 13:02:30.08 [9044:6128:0304/130230.073:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 04, 2022 13:02:30.08 [9044:6128:0304/130230.075:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 04, 2022 13:02:30.08 [9044:13884:0304/130230.076:ERROR:device_event_log_impl.cc(214)] [13:02:30.075] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 13:15:22.92 [14124:10928:0304/131522.928:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 13:15:26.45 [14124:13944:0304/131526.451:ERROR:device_event_log_impl.cc(214)] [13:15:26.451] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 13:18:59.55 [13884:7712:0304/131859.543:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 13:19:01.85 [13884:3892:0304/131901.856:ERROR:device_event_log_impl.cc(214)] [13:19:01.857] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 13:28:30.86 [17092:5304:0304/132830.828:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 13:28:34.01 [17092:12948:0304/132834.009:ERROR:device_event_log_impl.cc(214)] [13:28:34.011] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 13:38:57.67 [15268:10976:0304/133857.671:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 13:39:00.17 [15268:8060:0304/133900.174:ERROR:device_event_log_impl.cc(214)] [13:39:00.170] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 13:39:00.50 [15268:15144:0304/133900.502:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 04, 2022 13:39:21.81 [15268:15144:0304/133921.806:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Mar 04, 2022 13:50:33.02 [15268:15144:0304/135033.024:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Mar 04, 2022 19:36:02.98 NEW SESSION
+Mar 04, 2022 19:36:02.98 [2612:13592:0304/193602.948:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 19:36:05.21 [2612:11156:0304/193605.209:ERROR:device_event_log_impl.cc(214)] [19:36:05.209] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 04, 2022 19:37:30.39 NEW SESSION
+Mar 04, 2022 19:37:30.39 [11224:8972:0304/193730.377:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 19:37:32.65 [11224:1244:0304/193732.649:ERROR:device_event_log_impl.cc(214)] [19:37:32.648] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 19:38:55.94 [16556:14632:0304/193855.939:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 04, 2022 19:38:58.24 [16556:16940:0304/193858.243:ERROR:device_event_log_impl.cc(214)] [19:38:58.243] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2022 20:17:41.38 
+Mar 04, 2022 20:17:41.38 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 04, 2022 20:17:41.39 
+Mar 04, 2022 20:23:01.19 
+Mar 04, 2022 20:23:01.19 ###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+Mar 04, 2022 20:23:01.20 
+Mar 04, 2022 20:23:02.34 [Parent 9204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Mar 04, 2022 20:28:06.14 
+Mar 04, 2022 20:28:06.14 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 04, 2022 20:28:06.14 
+
+Mar 04, 2022 20:52:37.06 NEW SESSION
+Mar 04, 2022 20:52:37.06 
+Mar 04, 2022 20:52:37.07 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 04, 2022 20:52:37.07 
+
+Mar 05, 2022 20:35:30.15 NEW SESSION
+Mar 05, 2022 20:35:30.15 [GFX1-]: shader-cache: Timed out before finishing loads
+Mar 05, 2022 20:35:30.15 [2022-03-05T15:05:30Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Mar 05, 2022 20:35:47.26 
+Mar 05, 2022 20:35:47.26 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 05, 2022 20:35:47.26 
+Mar 05, 2022 20:40:29.87 
+Mar 05, 2022 20:40:29.87 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 05, 2022 20:40:29.87 
+Mar 05, 2022 20:42:21.81 
+Mar 05, 2022 20:42:21.81 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 05, 2022 20:42:21.81 
+Mar 05, 2022 20:50:12.02 
+Mar 05, 2022 20:50:12.02 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 05, 2022 20:50:12.02 
+Mar 05, 2022 20:50:39.63 
+Mar 05, 2022 20:50:39.63 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 05, 2022 20:50:39.63 
+Mar 05, 2022 20:57:40.60 [Parent 9088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Mar 05, 2022 21:03:13.82 
+Mar 05, 2022 21:03:13.82 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 05, 2022 21:03:13.84 
+Mar 05, 2022 22:04:50.46 
+Mar 05, 2022 22:04:50.46 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 05, 2022 22:04:50.46 
+
+Mar 06, 2022 13:38:52.56 NEW SESSION
+Mar 06, 2022 13:38:52.56 [GFX1-]: shader-cache: Timed out before finishing loads
+Mar 06, 2022 13:38:52.56 [2022-03-06T08:08:52Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Mar 06, 2022 13:52:47.01 
+Mar 06, 2022 13:52:47.01 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 06, 2022 13:52:47.01 
+Mar 06, 2022 14:01:00.03 
+Mar 06, 2022 14:01:00.03 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 06, 2022 14:01:00.03 
+Mar 06, 2022 14:04:02.87 [Child 2488, MediaDecoderStateMachine #1] WARNING: 17fd2bca660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 06, 2022 14:29:11.55 
+Mar 06, 2022 14:29:11.55 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 06, 2022 14:29:11.56 
+Mar 06, 2022 14:33:49.24 
+Mar 06, 2022 14:33:49.24 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 06, 2022 14:33:49.24 
+
+Mar 06, 2022 15:03:04.80 NEW SESSION
+Mar 06, 2022 15:03:04.80 
+Mar 06, 2022 15:03:04.80 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 06, 2022 15:03:04.81 
+
+Mar 08, 2022 20:21:11.41 NEW SESSION
+Mar 08, 2022 20:21:11.41 [GFX1-]: shader-cache: Timed out before finishing loads
+Mar 08, 2022 20:21:11.42 [2022-03-08T14:51:11Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Mar 08, 2022 20:43:52.51 
+Mar 08, 2022 20:43:52.52 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+Mar 08, 2022 20:43:52.52 
+Mar 08, 2022 20:43:52.52 
+Mar 08, 2022 20:43:52.52 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
+Mar 08, 2022 20:43:52.52 
+Mar 08, 2022 20:43:52.53 
+Mar 08, 2022 20:43:52.53 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+Mar 08, 2022 20:43:52.53 
+Mar 08, 2022 20:43:52.53 [Parent 10828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Mar 08, 2022 21:18:28.40 [Child 19300, MediaDecoderStateMachine #1] WARNING: 127eefa9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 08, 2022 21:22:45.70 [Child 19300, MediaDecoderStateMachine #1] WARNING: 127fa203ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 08, 2022 21:22:46.44 [Child 19300, MediaDecoderStateMachine #1] WARNING: 127fa203ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 08, 2022 22:11:46.10 
+Mar 08, 2022 22:11:46.10 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 08, 2022 22:11:46.10 
+
+Mar 08, 2022 23:45:01.86 NEW SESSION
+Mar 08, 2022 23:45:01.86 [GFX1-]: shader-cache: Timed out before finishing loads
+Mar 08, 2022 23:45:01.88 [2022-03-08T18:15:01Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Mar 09, 2022 24:41:02.14 [Child 18320, MediaDecoderStateMachine #1] WARNING: 1888dc563c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 09, 2022 24:42:20.84 [Child 18320, MediaDecoderStateMachine #1] WARNING: 188931f9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 09, 2022 24:45:27.85 [Child 18320, MediaDecoderStateMachine #1] WARNING: 18891c19200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 09, 2022 24:45:28.18 [Child 18320, MediaDecoderStateMachine #1] WARNING: 18891c19200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 09, 2022 24:48:44.68 [Child 18320, MediaDecoderStateMachine #1] WARNING: 1888fee3f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 09, 2022 24:48:48.57 [Child 18320, MediaDecoderStateMachine #1] WARNING: 1889705df20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Mar 09, 2022 24:48:51.27 
+Mar 09, 2022 24:48:51.27 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 09, 2022 24:48:51.28 
+Mar 09, 2022 24:53:15.47 [GFX1-]: shader-cache: Timed out before finishing loads
+Mar 09, 2022 24:53:15.49 [2022-03-08T19:23:15Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Mar 09, 2022 24:57:52.37 
+Mar 09, 2022 24:57:52.37 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 09, 2022 24:57:52.37 
+
+Mar 22, 2022 20:02:17.88 NEW SESSION
+Mar 22, 2022 20:02:17.88 [GFX1-]: shader-cache: Timed out before finishing loads
+Mar 22, 2022 20:02:17.89 [2022-03-22T14:32:17Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Mar 22, 2022 20:11:04.96 
+Mar 22, 2022 20:11:04.96 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+Mar 22, 2022 20:11:04.96 
+
+May 26, 2022 14:28:51.95 NEW SESSION
+May 26, 2022 14:28:51.95 [Parent 18744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

@@ -1,0 +1,74 @@
+.login{
+margin-left:400px;
+margin-right:400px;
+margin-top:240px;
+height:300px;
+background-color: rgba(0,0,0, 0.5);
+}
+
+.login input[type="text"], input[type="email"], input[type="password"]
+{
+  background:yellow;
+  border:none;
+  color:green;
+  height:27px;
+  border-bottom: 1px solid blue;
+  font-size:16px;
+}
+
+.login input[type="submit"]
+{
+   border:none;
+   outline:none;
+   font-size:27px;
+   height:35px;
+   color:white;
+   background:blue;
+   border-radius:90px;
+}
+
+.login input[type="submit"]:hover
+{
+    cursor:pointer;
+    background: yellow;
+    color:darkgreen;
+}
+
+.login input
+{
+   width:100%;
+}
+
+.table td
+{
+  color:yellow;
+  font-size:25px;
+}
+
+.table td a
+{
+  color:yellow;
+}
+
+.table{
+height:230px;
+}
+
+h1
+{
+  text-align:center;
+  height:22px;
+}
+
+::placeholder
+{
+   color:green;
+}
+
+body
+{
+ background:url(6.png);
+ background-size:cover;
+ background-position:center;
+ background-attachment: fixed;
+}

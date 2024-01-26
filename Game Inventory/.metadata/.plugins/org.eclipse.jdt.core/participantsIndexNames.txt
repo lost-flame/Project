@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\MCA Project\Game Inventory (Sem 1)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2840957053.index
+\gameInventory\src

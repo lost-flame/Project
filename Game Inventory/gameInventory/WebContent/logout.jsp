@@ -1,0 +1,10 @@
+<html>
+<head>
+</head>
+<body>
+<% 
+session.removeAttribute("id");
+response.sendRedirect("aboutUs.jsp");
+%>
+</body>
+</html>

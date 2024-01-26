@@ -1,0 +1,8 @@
+total tables  6
+
+euser  		11cols
+eadmin 		9cols
+cart 		5cols
+efeedback   	3cols
+equery 		3cols
+eproducts		6cols

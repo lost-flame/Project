@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\MCA Project\Game Inventory (Sem 1)\.metadata\.plugins\org.eclipse.jdt.core
+1701386022.index
+162824147.index
+2908997183.index

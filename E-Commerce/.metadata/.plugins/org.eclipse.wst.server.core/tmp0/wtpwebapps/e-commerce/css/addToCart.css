@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+	font-family: consolas;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.layout {
+	background-color: teal;
+	max-width: 100vw;
+	height: 739px;
+	overflow: auto;
+}
+
+.add {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	margin: auto;
+	width: 514px;
+	height: 116px;
+	font-size: 2vw;
+	background-color: aqua;
+	top: 296px;
+}
+
+div {
+	background-color: chartreuse;
+}
+
+a {
+	text-decoration: none;
+	background-color: yellow;
+	border-radius: 30px;
+}
+
+input[type="submit"] {
+	background-color: greenyellow;
+}
+
+.cancel {
+	position: relative;
+	left: 196px;
+	width: 116px;
+	border-radius: 31px;
+}

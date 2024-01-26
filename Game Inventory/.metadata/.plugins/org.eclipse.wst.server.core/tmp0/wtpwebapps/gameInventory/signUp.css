@@ -1,0 +1,91 @@
+.signup{
+margin-left:450px;
+margin-right:450px;
+margin-top:64px;
+background-color: rgba(0,0,0, 0.5); 
+  
+height:630px;
+
+}
+.signup input[type="text"], input[type="number"], input[type="email"], input[type="password"]
+{
+  background:yellow;
+  border:none;
+  height:30px;
+  border-bottom: 1px solid blue;
+  font-size:20px;
+  color:green;
+}
+
+.signup input[type="submit"]
+{
+   border:none;
+   outline:none;
+   font-size:25px;
+   height:40px;
+   color:white;
+   background:blue;
+   border-radius:90px;
+}
+
+.signup input[type="submit"]:hover
+{
+    cursor:pointer;
+    background: yellow;
+    color:darkgreen;
+}
+
+.signup input
+{
+   width:100%;
+}
+
+::placeholder
+{
+   color:green;
+}
+.table{
+height:530px;
+}
+
+.table td
+{
+  color:yellow;
+  font-size:25px;
+}
+
+.table td a
+{
+  color:yellow;
+}
+
+h1
+{
+  text-align:center;
+  height:20px;
+
+}
+
+.table td select
+{
+  color:green;
+  background:yellow;
+  border:none;
+  height:20px;
+  border-bottom: 1px solid blue;
+  font-size:18px;
+}
+
+.table td select,option
+{
+  background:yellow;
+  height:25px;
+  font-size:18px;
+}
+body
+{
+ background:url(5.png);
+ background-size:cover;
+ background-position:center;
+ background-attachment: fixed;
+}

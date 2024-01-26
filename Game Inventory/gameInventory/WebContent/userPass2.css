@@ -1,0 +1,32 @@
+
+h1
+{
+  color:white;
+}
+table
+{
+  font-size:20px;
+}
+body
+{
+  margin-top:140px;
+  font-size:20px;
+  color:blue;
+}
+table td input[type="submit"]:hover
+{
+    cursor:pointer;
+    background: yellow;
+    color:darkgreen;
+}
+table input[type="submit"]
+{
+   border:none;
+   outline:none;
+   height:20px;
+   font-size:23px;
+   height:30px;
+   color:white;
+   background:blue;
+   border-radius:80px;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;e-commerce/WebContent/css/adminLogin.css&apos; to &apos;adminLoginPage.css&apos;" description="Rename resource &apos;adminLogin.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/css/adminLogin.css" name="adminLoginPage.css" stamp="1686737900583" updateReferences="true"/>
+</session>

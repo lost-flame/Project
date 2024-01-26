@@ -1,0 +1,94 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(../images/a.jpg);
+ 	background-size:cover;
+ 	background-position:center;
+ 	background-attachment: fixed;
+}
+
+.outer{
+	background: blue;
+	opacity: 0.9;
+	max-width: 40vw;
+	height: 100vh;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.heading{
+	max-width: 20vw;
+	height: 10vh;
+	font-size: 2vw;
+	display: flex;
+	align-items: center;
+	color: yellow;
+	font-weight: bold;
+}
+
+.inner{
+	position: absolute;
+	max-width: 100vw;
+	height: 84vh;
+	background: #00ffff;
+	overflow-y: auto;
+   	top: 10%;
+}
+
+.inner::-webkit-scrollbar {
+    display: none;
+}
+
+.inner table{
+	text-align: left;
+	max-width: 90vw;
+	border-collapse: collapse;
+	height: 80vh;
+	margin: auto;
+	font-size: 1.5vw;
+}
+
+.inner table tr td{
+	max-width: 15vw;
+	font-weight: bold;
+}
+
+.inner input[type=text], input[type=email], input[type=password], ::placeholder{
+    max-width: 14vw;
+    font-size: 1.2vw;
+    font-weight: lighter;
+    border-radius: 10px;
+}
+
+.inner select{
+	max-width: 14vw;
+    font-size: 1.1vw;
+    font-weight: lighter;
+}
+
+.inner input[type=submit], .inner a{
+	width: 100%;
+	font-size: 1.3vw;
+    font-weight: lighter;
+    text-align: center;
+    display:inline-block;
+    text-decoration: none;
+    border-radius:90px;
+}
+
+.inner input[type=submit]{
+	background-color: yellow;
+}
+
+.inner input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #0000ff;
+    color: black;
+}

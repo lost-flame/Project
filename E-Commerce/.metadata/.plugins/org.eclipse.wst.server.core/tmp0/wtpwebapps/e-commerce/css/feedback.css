@@ -1,0 +1,65 @@
+* {
+	box-sizing: border-box;
+	font-family: consolas;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: aqua;
+}
+.center {
+	margin-left: 150px;
+	width: 1226px;
+	height: 695px;
+	margin-top: 30px;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.center div table
+{
+  color: yellow;
+  font-size: 30px;
+}
+
+::placeholder
+{
+  color: black;
+}
+
+input[type="submit"]
+ {
+	border: none;
+	outline: none;
+	font-size: 27px;
+	height: 35px;
+	color: white;
+	background: blue;
+	border-radius: 90px;
+}
+
+input[type="submit"]:hover
+{
+   cursor: pointer;
+    background: yellow;
+    color: darkgreen;
+}
+
+.scroll {
+	height: 19%;
+	overflow: scroll;
+	width: 91%;
+}
+
+.scroll table {
+	width: 100%;
+}
+
+.fed {
+	color: white;
+   	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+}
